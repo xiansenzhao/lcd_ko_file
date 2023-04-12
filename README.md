@@ -1,0 +1,1 @@
+# lcd_ko_file
